@@ -47,8 +47,17 @@ MAD-GNN addresses this by modeling these interactions separately
     evaluate.py
     requirements.txt
 
-    <img width="919" height="740" alt="Unknown-5" src="https://github.com/user-attachments/assets/d64fc0bd-00b1-4faa-8a35-0b92dff1913f" />
-📸 Sample Output
+   📸 Graph Visualization
+
+     🔹 Graph 1
+    ![Graph1](image/Graph1.png)
+
+     🔹 Graph 2
+    ![Graph2](image/Graph2.png)
+
+     🔹 Graph 3
+    ![Graph3](image/Graph3.png)
+
 
 
 	
