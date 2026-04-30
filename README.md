@@ -9,31 +9,61 @@ MAD-GNN addresses this by modeling these interactions separately
 
 ⚙️ Features
 	Multi-branch GNN architecture
+	
 	Captures:
+	
 	Local interactions (B–X)
+	
 	Ionic interactions (A–X / A–B)
+	
 	Long-range interactions
+	
 	Built using PyTorch Geometric
+	
 	Custom graph construction from crystal structures
+
+
+	
   🛠️ Tech Stack
-  Python
+    Python
+	
 	PyTorch
+	
 	PyTorch Geometric
+	
 	NumPy, Pandas
+
+	
   📊 Results
   Improved prediction performance compared to baseline GNN models
-	Evaluated using Mean Absolute Error (MAE)
+  
+  Evaluated using Mean Absolute Error (MAE)
+
+	
   ▶️ How to Run
   pip install -r requirements.txt
+  
   python train.py
+
+
+  
   🚀 Future Work
   •	Hyperparameter tuning
-	•	Larger dataset integration
-	•	Model deployment (API / web app)
+  
+  •Larger dataset integration
+  
+  •Model deployment (API / web app)
+
+	
   Step 4: requirements.txt
   torch
+  
   torch-geometric
+  
   numpy
+  
   pandas
+  
   scikit-learn
+  
   matplotlib
