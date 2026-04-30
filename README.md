@@ -1,7 +1,15 @@
 # MAD-GNN: Multi-Area Graph Neural Network for Bandgap Prediction
+<p align="center">
+  <img src="image/Graph1.png" width="30%">
+  <img src="image/Graph2.png" width="30%">
+  <img src="image/Graph3.png" width="30%">
+</p>
+
+
+
  📌 Overview:
  
- This project implements MAD-GNN (Multi-Area Graph Neural Network) to predict the bandgap of crystalline materials using Graph Neural Networks.
+ This project implements MAD-GNN (Multi-Area Directed  Graph Neural Network) to predict the bandgap of crystalline materials using Graph Neural Networks.
  
  🧠 Motivation:
  
@@ -75,6 +83,9 @@ MAD-GNN addresses this by modeling these interactions separately
 └── README.md
 
  📸 Graph Visualization
+ 
+ 
+
 
      🔹 Graph 1
 	 
@@ -120,7 +131,6 @@ The model learns to prioritize different interaction types:
   
 - Long-range interactions: **0.33**
 
-👉 Shows model captures **physical chemistry relationships**
 
 🔍 Sample Predictions
 
