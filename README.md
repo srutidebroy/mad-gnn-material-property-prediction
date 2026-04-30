@@ -44,7 +44,21 @@ MAD-GNN addresses this by modeling these interactions separately
 	NumPy, Pandas
 	
 	📁 Project Structure
-	
+	│
+├── data/
+│   └── sample_data.csv
+│
+├── models/
+│   └── madgnn_model.py
+│
+├── utils/
+│   ├── graph_utils.py
+│   └── preprocess.py
+│
+├── train.py
+├── evaluate.py
+├── requirements.txt
+└── README.md
 	data/
 
 	image/
@@ -59,19 +73,20 @@ MAD-GNN addresses this by modeling these interactions separately
 
 	train.py
 
+
    📸 Graph Visualization
 
      🔹 Graph 1
 	 
-    ![Graph1](image/Graph1.png)
+![Grapgh1](image/Graph1.png)
 
      🔹 Graph 2
 	 
-    ![Graph2](image/Graph2.png)
+![Graph2](image/Graph2.png)
 
      🔹 Graph 3
 	 
-    ![Graph3](image/Graph3.png)
+![Graph3](image/Graph3.png)
 
 
 
