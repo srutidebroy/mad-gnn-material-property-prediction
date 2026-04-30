@@ -43,38 +43,38 @@ MAD-GNN addresses this by modeling these interactions separately
 	
 	NumPy, Pandas
 	
-	📁 Project Structure
-	│
+📁 Project Structure
+│
+
 ├── data/
+
 │   └── sample_data.csv
+
 │
+
 ├── models/
+
 │   └── madgnn_model.py
+
 │
+
 ├── utils/
+
 │   ├── graph_utils.py
+
 │   └── preprocess.py
+
 │
+
 ├── train.py
+
 ├── evaluate.py
+
 ├── requirements.txt
+
 └── README.md
-	data/
 
-	image/
-	
-    models/
-	
-    utils/
-	
-	evaluate.py
-	
-    requirements.txt
-
-	train.py
-
-
-   📸 Graph Visualization
+ 📸 Graph Visualization
 
      🔹 Graph 1
 	 
